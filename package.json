@@ -1,0 +1,25 @@
+{
+  "name": "obliviate",
+  "version": "1.0.0",
+  "description": "PHP Obfuscator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marthem/obliviate.git"
+  },
+  "keywords": [
+    "PHP",
+    "Obfuscator",
+    "NPM",
+    "Node.js"
+  ],
+  "author": "Michael Antonius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marthem/obliviate/issues"
+  },
+  "homepage": "https://github.com/marthem/obliviate#readme"
+}
