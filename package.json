@@ -2,9 +2,13 @@
   "name": "obliviate",
   "version": "1.0.0",
   "description": "PHP Obfuscator",
-  "main": "index.js",
+  "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "oblv": "bin/obliviate.js",
+    "obliviate": "bin/obliviate.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/marthem/obliviate/issues"
   },
-  "homepage": "https://github.com/marthem/obliviate#readme"
+  "homepage": "https://github.com/marthem/obliviate#readme",
+  "dependencies": {
+    "chokidar": "^1.5.2",
+    "node-colorify": "^2.0.0"
+  }
 }
