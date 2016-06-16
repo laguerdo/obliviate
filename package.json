@@ -28,6 +28,7 @@
   "homepage": "https://github.com/marthem/obliviate#readme",
   "dependencies": {
     "chokidar": "^1.5.2",
+    "glob-all": "^3.0.3",
     "node-colorify": "^2.0.0"
   }
 }
