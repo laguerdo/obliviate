@@ -1,4 +1,4 @@
-# Obliviate *v.0.1 beta*
+# Obliviate *v1.0.1 beta*
 Obliviate is a Ultimate PHP Logic Obfuscator. It shuffles your logics and take care for every single logics you've written. It does also doing some code obfuscation, with considering performance
 ## How to use
 1. First install node.js (if not installed) and run `npm install -g obliviate`
